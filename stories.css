@@ -1,0 +1,55 @@
+.image{
+  height:175px;
+}
+
+#title {
+  margin-top:20px;
+  font-family: 'Lato', sans-serif;
+  font-size: 65px;
+  font-weight: bold;
+  letter-spacing:15px;
+  background-image:
+}
+
+#header{
+  margin-top:20px;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 8px;
+
+}
+
+.descrip{
+  margin-top:50px;
+  margin-bottom:70px;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  font-weight:normal;
+  text-align:center;
+
+}
+
+.margin{
+  margin-right:235px;
+  margin-left:235px;
+}
+
+.margin2{
+  margin-top:2px;
+  margin-bottom:2px;
+}
+
+
+.text-box{
+  text-align:center;
+  border: 1px solid black;
+  background-color: #F0F0F0;
+  width:31%;
+  height:280px;
+  float:left;
+  margin-right:2%;
+  font-family:'Lato',sans-serif;
+  font-size:15px;
+  padding:4px;
+}
